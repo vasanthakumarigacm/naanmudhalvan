@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Mobile 9894143211_img-loaded</name>
+   <tag></tag>
+   <elementGuidId>8521beff-e93c-4e91-bd19-2ac5828f2a42</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='contentBlock890212338']/div/div/div/div[2]/div/div/div/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#contentBlock890212338 > div.template-main-container.featured-cat > div.custom-template.clearfix.bootstrap-iso.template-31.global-block-padding > div.container-fluid > div.row > div.col-md-12.col-xs-12.featured-width.cust-temp-prod-box > div.col-md-12.col-xs-4.paddingLR0 > div.editable-image-holder > div.editable-content > img.img-loaded</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#contentBlock890212338 img >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>c1d1ddf7-be21-4f77-b8f2-6eddb622b437</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://image3.jdomni.in/banner/29062019/0F/6C/09/CF3AC98AC654A1C0DECC15DE5C_1561791293353.png?output-format=webp</value>
+      <webElementGuid>9abfa639-2cb1-45c4-94c7-e5d27b39441e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> img-loaded</value>
+      <webElementGuid>382193d0-14e5-4f67-bfaf-8e640114b90e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentBlock890212338&quot;)/div[@class=&quot;template-main-container   featured-cat&quot;]/div[@class=&quot;custom-template  clearfix bootstrap-iso template-31 global-block-padding&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 col-xs-12 featured-width cust-temp-prod-box&quot;]/div[@class=&quot;col-md-12 col-xs-4 paddingLR0&quot;]/div[@class=&quot;editable-image-holder&quot;]/div[@class=&quot;editable-content&quot;]/img[@class=&quot;img-loaded&quot;]</value>
+      <webElementGuid>db45a0fa-a912-4e11-a0e9-f1e31c80807d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contentBlock890212338']/div/div/div/div[2]/div/div/div/div/img</value>
+      <webElementGuid>cc8bccca-357d-4868-9aeb-1a3c5edee00a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://image3.jdomni.in/banner/29062019/0F/6C/09/CF3AC98AC654A1C0DECC15DE5C_1561791293353.png?output-format=webp')]</value>
+      <webElementGuid>a1f9c14b-37c6-4590-8444-5b66a0ce8689</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div[2]/div/div/div/div/img</value>
+      <webElementGuid>5c129560-2c66-4f5e-a879-8c84db1ec565</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://image3.jdomni.in/banner/29062019/0F/6C/09/CF3AC98AC654A1C0DECC15DE5C_1561791293353.png?output-format=webp']</value>
+      <webElementGuid>5cd215bf-6675-4246-a30e-b29eddc976ff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

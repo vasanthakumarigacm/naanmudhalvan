@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_PG Dept. of Tamil</name>
+   <tag></tag>
+   <elementGuidId>fecae2d2-54cd-4ba9-af1c-c10e40ba5f31</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[6]/div[2]/div[2]/div[2]/div/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;PG Dept. of Tamil&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c15bde8f-f81d-4f9d-9f9b-47bc278856b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://www.melurgac.in/dept-tamil/page-4312231</value>
+      <webElementGuid>73938522-5c4d-409a-82c9-f3a085bda7bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>child-menuLink-color  menulink-name go-to-link</value>
+      <webElementGuid>2616eba6-232b-490f-81e1-d7a2489f5a52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PG Dept. of Tamil</value>
+      <webElementGuid>ec3e1f1c-0dea-4bd9-aa48-1d3023e1a53d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;default&quot;]/div[@class=&quot;normal-menu  child-menuLink-background  leftAlign&quot;]/div[@class=&quot;normal-menulinks-wrapper&quot;]/div[@class=&quot;menu-link-row  child-menuLink-hover parent-menu-row&quot;]/div[@class=&quot;normal-menu  child-menuLink-background  right&quot;]/div[@class=&quot;normal-menulinks-wrapper&quot;]/div[@class=&quot;menu-link-row  child-menuLink-hover&quot;]/a[@class=&quot;child-menuLink-color  menulink-name go-to-link&quot;]</value>
+      <webElementGuid>f6e7d023-5d53-498a-9d7d-df9bb4855381</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[6]/div[2]/div[2]/div[2]/div/div[2]/a</value>
+      <webElementGuid>666389bc-5998-4fd8-a3cc-1f5f522288af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'PG Dept. of Tamil')]</value>
+      <webElementGuid>a9229986-1230-4565-969e-0183b60e258b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PG &amp; Research Dept. of History'])[1]/following::a[1]</value>
+      <webElementGuid>f2c0b893-8b50-4467-a02c-976b2018ac7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Departments'])[1]/following::a[2]</value>
+      <webElementGuid>ea7444a6-d1f2-442a-95c5-2d3d409386a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PG Dept. of English'])[1]/preceding::a[1]</value>
+      <webElementGuid>90b51494-7878-461b-8df8-b52b220d4687</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PG &amp; Research Dept. of Economics'])[1]/preceding::a[2]</value>
+      <webElementGuid>3f856ecb-68da-45dc-958c-a098eff6d65b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='PG Dept. of Tamil']/parent::*</value>
+      <webElementGuid>45514104-43a7-45fb-8eda-09e71a9664d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://www.melurgac.in/dept-tamil/page-4312231']</value>
+      <webElementGuid>21e3c4b0-2867-4b3b-88ba-0ec177c35208</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/a</value>
+      <webElementGuid>dcbb6647-6105-436c-ba8f-90be0dd38b19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://www.melurgac.in/dept-tamil/page-4312231' and (text() = 'PG Dept. of Tamil' or . = 'PG Dept. of Tamil')]</value>
+      <webElementGuid>9af10da8-f450-4077-9358-d37d99f1c76f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
